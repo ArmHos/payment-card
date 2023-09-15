@@ -1,0 +1,15 @@
+@import url("https://fonts.cdnfonts.com/css/ocr-a-std");
+
+.App {
+  max-width: 1000px;
+  margin: 3% auto;
+  padding: 1.5rem;
+  // border: solid;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 120px;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+  border-radius: 4px;
+}
